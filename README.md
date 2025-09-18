@@ -1,4 +1,4 @@
-# crypto.launch
+# Fun.Pump
 
 ## Technology Stack & Tools
 
